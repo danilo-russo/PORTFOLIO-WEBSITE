@@ -65,6 +65,10 @@ nav ul li a {
   margin-bottom: 0;
 }
 
+.project {
+  margin-bottom: 50px;
+}
+
 .project h2 {
   margin-bottom: 20px;
 }
@@ -83,4 +87,21 @@ nav ul li a {
 .w-6 {
   width: 15px;
   margin-right: 5px;
+}
+
+.skills {
+  margin-bottom: 50px;
+}
+
+.skills h2 {
+  margin-bottom: 20px;
+}
+
+.img-icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-icon img {
+  width: 40px;
 }
