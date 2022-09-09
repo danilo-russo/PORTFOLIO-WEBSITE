@@ -40,6 +40,7 @@ nav ul li a {
 
 .aboutMe {
   display: flex;
+  margin-bottom: 50px;
 }
 
 .text {
@@ -62,4 +63,24 @@ nav ul li a {
 
 .text p:last-child {
   margin-bottom: 0;
+}
+
+.project h2 {
+  margin-bottom: 20px;
+}
+
+.namePro {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.namePro p {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.w-6 {
+  width: 15px;
+  margin-right: 5px;
 }
