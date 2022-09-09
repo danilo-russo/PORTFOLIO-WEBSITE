@@ -15,7 +15,7 @@ nav {
   padding: 15px 0;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 nav ul {
@@ -40,7 +40,7 @@ nav ul li a {
 
 .aboutMe {
   display: flex;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .text {
@@ -53,7 +53,7 @@ nav ul li a {
 }
 
 .text h2 {
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .text p {
@@ -66,11 +66,11 @@ nav ul li a {
 }
 
 .project {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .project h2 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .namePro {
@@ -90,7 +90,7 @@ nav ul li a {
 }
 
 .skills {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .skills h2 {
@@ -104,4 +104,8 @@ nav ul li a {
 
 .img-icon img {
   width: 40px;
+}
+
+footer {
+  text-align: center;
 }
